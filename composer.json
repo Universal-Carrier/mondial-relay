@@ -1,0 +1,75 @@
+{
+  "name": "universal-carrier/mondial-relay",
+  "description": "Mondial Relay driver for Universal Carrier: pickup points, labels and tracking.",
+  "keywords": [
+    "shipping",
+    "carrier",
+    "mondial-relay",
+    "pickup-points",
+    "shipping-label",
+    "tracking"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alexandre Debusschère",
+      "email": "alexandre.debusschere@hey.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "UniversalCarrier\\MondialRelay\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "UniversalCarrier\\MondialRelay\\Tests\\": "tests/"
+    }
+  },
+  "require": {
+    "php": "^8.4",
+    "ext-soap": "*",
+    "psr/http-client": "^1.0",
+    "psr/http-factory": "^1.1",
+    "universal-carrier/core": "^1.0"
+  },
+  "require-dev": {
+    "nyholm/psr7": "^1.8",
+    "phpstan/phpstan": "^2.1",
+    "phpunit/phpunit": "^11.0",
+    "universal-carrier/conformance": "^1.0"
+  },
+  "repositories": [
+    {
+      "type": "path",
+      "url": "..",
+      "options": {
+        "symlink": true,
+        "versions": {
+          "universal-carrier/core": "1.0.0"
+        }
+      }
+    },
+    {
+      "type": "path",
+      "url": "../conformance",
+      "options": {
+        "symlink": true,
+        "versions": {
+          "universal-carrier/conformance": "1.0.0"
+        }
+      }
+    }
+  ],
+  "scripts": {
+    "test": "phpunit",
+    "analyse": "phpstan analyse --memory-limit=512M",
+    "check": [
+      "@analyse",
+      "@test"
+    ]
+  },
+  "config": {
+    "sort-packages": true
+  }
+}

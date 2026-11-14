@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Reconstructed from a real answer (shipment 01225747, 2026-06-20): creating labels is not
+     exercised against the live API by this test suite. -->
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<soap:Body>
+<WSI2_CreationEtiquetteResponse xmlns="http://www.mondialrelay.fr/webservice/">
+<WSI2_CreationEtiquetteResult>
+<STAT>0</STAT>
+<ExpeditionNum>01225747</ExpeditionNum>
+<URL_Etiquette>/StickersProxy/BDTEST13/etiquette/GetStickersExpeditionsAnonyme2?ens=BDTEST13&amp;expedition=01225747&amp;lg=fr-FR&amp;format=A4&amp;crc=00000000000000000000000000000000</URL_Etiquette>
+</WSI2_CreationEtiquetteResult>
+</WSI2_CreationEtiquetteResponse>
+</soap:Body>
+</soap:Envelope>

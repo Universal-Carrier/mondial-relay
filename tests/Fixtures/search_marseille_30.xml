@@ -1,0 +1,1887 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<soap:Body>
+<WSI4_PointRelais_RechercheResponse xmlns="http://www.mondialrelay.fr/webservice/">
+<WSI4_PointRelais_RechercheResult>
+<STAT>0</STAT>
+<PointsRelais>
+<PointRelais_Details>
+<STAT />
+<Num>023298</Num>
+<LgAdr1>LOCKER NETPHONE REFORME CANEBIE</LgAdr1>
+<LgAdr2 />
+<LgAdr3>16 RUE DE LA GRANDE ARMEE</LgAdr3>
+<LgAdr4 />
+<CP>13001</CP>
+<Ville>MARSEILLE</Ville>
+<Pays>FR</Pays>
+<Localisation1> </Localisation1>
+<Latitude>43,300418</Latitude>
+<Longitude>5,3839409</Longitude>
+<TypeActivite />
+<Information>LOCKER</Information>
+<Horaires_Lundi>
+<string>0900</string>
+<string>1830</string>
+<string />
+<string />
+</Horaires_Lundi>
+<Horaires_Mardi>
+<string>0900</string>
+<string>1830</string>
+<string />
+<string />
+</Horaires_Mardi>
+<Horaires_Mercredi>
+<string>0900</string>
+<string>1830</string>
+<string />
+<string />
+</Horaires_Mercredi>
+<Horaires_Jeudi>
+<string>0900</string>
+<string>1830</string>
+<string />
+<string />
+</Horaires_Jeudi>
+<Horaires_Vendredi>
+<string>0900</string>
+<string>1230</string>
+<string>1300</string>
+<string>1830</string>
+</Horaires_Vendredi>
+<Horaires_Samedi>
+<string>0930</string>
+<string>1730</string>
+<string />
+<string />
+</Horaires_Samedi>
+<Horaires_Dimanche>
+<string />
+<string />
+<string />
+<string />
+</Horaires_Dimanche>
+<Informations_Dispo />
+<URL_Photo>https://ww2.mondialrelay.com/public/permanent/photo_relais.aspx?ens=BDTEST__11&amp;num=023298&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Photo>
+<URL_Plan>https://ww2.mondialrelay.com/public/permanent/plan_relais.aspx?ens=BDTEST__11&amp;num=023298&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Plan>
+<Distance>0</Distance>
+</PointRelais_Details>
+<PointRelais_Details>
+<STAT />
+<Num>081728</Num>
+<LgAdr1>REFORMES CANEBIERE NETPHONE</LgAdr1>
+<LgAdr2 />
+<LgAdr3>16 RUE DE LA GRANDE ARMEE</LgAdr3>
+<LgAdr4 />
+<CP>13001</CP>
+<Ville>MARSEILLE</Ville>
+<Pays>FR</Pays>
+<Localisation1> </Localisation1>
+<Latitude>43,300686</Latitude>
+<Longitude>5,3839207</Longitude>
+<TypeActivite />
+<Information />
+<Horaires_Lundi>
+<string>0900</string>
+<string>1830</string>
+<string />
+<string />
+</Horaires_Lundi>
+<Horaires_Mardi>
+<string>0900</string>
+<string>1830</string>
+<string />
+<string />
+</Horaires_Mardi>
+<Horaires_Mercredi>
+<string>0900</string>
+<string>1830</string>
+<string />
+<string />
+</Horaires_Mercredi>
+<Horaires_Jeudi>
+<string>0900</string>
+<string>1830</string>
+<string />
+<string />
+</Horaires_Jeudi>
+<Horaires_Vendredi>
+<string>0900</string>
+<string>1230</string>
+<string>1330</string>
+<string>1830</string>
+</Horaires_Vendredi>
+<Horaires_Samedi>
+<string>0900</string>
+<string>1730</string>
+<string />
+<string />
+</Horaires_Samedi>
+<Horaires_Dimanche>
+<string />
+<string />
+<string />
+<string />
+</Horaires_Dimanche>
+<Informations_Dispo />
+<URL_Photo>https://ww2.mondialrelay.com/public/permanent/photo_relais.aspx?ens=BDTEST__11&amp;num=081728&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Photo>
+<URL_Plan>https://ww2.mondialrelay.com/public/permanent/plan_relais.aspx?ens=BDTEST__11&amp;num=081728&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Plan>
+<Distance>0</Distance>
+</PointRelais_Details>
+<PointRelais_Details>
+<STAT />
+<Num>029687</Num>
+<LgAdr1>DZ TELECOM</LgAdr1>
+<LgAdr2 />
+<LgAdr3>76 RUE NATIONALE</LgAdr3>
+<LgAdr4 />
+<CP>13001</CP>
+<Ville>MARSEILLE</Ville>
+<Pays>FR</Pays>
+<Localisation1> </Localisation1>
+<Latitude>43,2993847</Latitude>
+<Longitude>5,3798032</Longitude>
+<TypeActivite />
+<Information />
+<Horaires_Lundi>
+<string>0930</string>
+<string>1800</string>
+<string />
+<string />
+</Horaires_Lundi>
+<Horaires_Mardi>
+<string>0930</string>
+<string>1800</string>
+<string />
+<string />
+</Horaires_Mardi>
+<Horaires_Mercredi>
+<string>0930</string>
+<string>1800</string>
+<string />
+<string />
+</Horaires_Mercredi>
+<Horaires_Jeudi>
+<string>0930</string>
+<string>1800</string>
+<string />
+<string />
+</Horaires_Jeudi>
+<Horaires_Vendredi>
+<string>0930</string>
+<string>1800</string>
+<string />
+<string />
+</Horaires_Vendredi>
+<Horaires_Samedi>
+<string>0930</string>
+<string>1800</string>
+<string />
+<string />
+</Horaires_Samedi>
+<Horaires_Dimanche>
+<string />
+<string />
+<string />
+<string />
+</Horaires_Dimanche>
+<Informations_Dispo />
+<URL_Photo>https://ww2.mondialrelay.com/public/permanent/photo_relais.aspx?ens=BDTEST__11&amp;num=029687&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Photo>
+<URL_Plan>https://ww2.mondialrelay.com/public/permanent/plan_relais.aspx?ens=BDTEST__11&amp;num=029687&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Plan>
+<Distance>0</Distance>
+</PointRelais_Details>
+<PointRelais_Details>
+<STAT />
+<Num>039076</Num>
+<LgAdr1>LOCKER SPEED WASH</LgAdr1>
+<LgAdr2 />
+<LgAdr3>40 RUE DU PETIT SAINT-JEAN</LgAdr3>
+<LgAdr4 />
+<CP>13001</CP>
+<Ville>MARSEILLE</Ville>
+<Pays>FR</Pays>
+<Localisation1> </Localisation1>
+<Latitude>43,2989589</Latitude>
+<Longitude>5,3792397</Longitude>
+<TypeActivite />
+<Information>LOCKER</Information>
+<Horaires_Lundi>
+<string>0600</string>
+<string>2200</string>
+<string />
+<string />
+</Horaires_Lundi>
+<Horaires_Mardi>
+<string>0600</string>
+<string>2200</string>
+<string />
+<string />
+</Horaires_Mardi>
+<Horaires_Mercredi>
+<string>0600</string>
+<string>2200</string>
+<string />
+<string />
+</Horaires_Mercredi>
+<Horaires_Jeudi>
+<string>0600</string>
+<string>2200</string>
+<string />
+<string />
+</Horaires_Jeudi>
+<Horaires_Vendredi>
+<string>0600</string>
+<string>2200</string>
+<string />
+<string />
+</Horaires_Vendredi>
+<Horaires_Samedi>
+<string>0600</string>
+<string>2200</string>
+<string />
+<string />
+</Horaires_Samedi>
+<Horaires_Dimanche>
+<string>0600</string>
+<string>2200</string>
+<string />
+<string />
+</Horaires_Dimanche>
+<Informations_Dispo />
+<URL_Photo>https://ww2.mondialrelay.com/public/permanent/photo_relais.aspx?ens=BDTEST__11&amp;num=039076&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Photo>
+<URL_Plan>https://ww2.mondialrelay.com/public/permanent/plan_relais.aspx?ens=BDTEST__11&amp;num=039076&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Plan>
+<Distance>0</Distance>
+</PointRelais_Details>
+<PointRelais_Details>
+<STAT />
+<Num>033873</Num>
+<LgAdr1>LOCKER INFINITY MOBILE</LgAdr1>
+<LgAdr2 />
+<LgAdr3>37 RUE LONGUE DES CAPUCINS</LgAdr3>
+<LgAdr4 />
+<CP>13001</CP>
+<Ville>MARSEILLE</Ville>
+<Pays>FR</Pays>
+<Localisation1> </Localisation1>
+<Latitude>43,3013587</Latitude>
+<Longitude>5,3781214</Longitude>
+<TypeActivite />
+<Information>LOCKER</Information>
+<Horaires_Lundi>
+<string>0800</string>
+<string>2200</string>
+<string />
+<string />
+</Horaires_Lundi>
+<Horaires_Mardi>
+<string>0800</string>
+<string>2200</string>
+<string />
+<string />
+</Horaires_Mardi>
+<Horaires_Mercredi>
+<string>0800</string>
+<string>2200</string>
+<string />
+<string />
+</Horaires_Mercredi>
+<Horaires_Jeudi>
+<string>0800</string>
+<string>2200</string>
+<string />
+<string />
+</Horaires_Jeudi>
+<Horaires_Vendredi>
+<string>0800</string>
+<string>2200</string>
+<string />
+<string />
+</Horaires_Vendredi>
+<Horaires_Samedi>
+<string>0800</string>
+<string>2200</string>
+<string />
+<string />
+</Horaires_Samedi>
+<Horaires_Dimanche>
+<string />
+<string />
+<string />
+<string />
+</Horaires_Dimanche>
+<Informations_Dispo />
+<URL_Photo>https://ww2.mondialrelay.com/public/permanent/photo_relais.aspx?ens=BDTEST__11&amp;num=033873&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Photo>
+<URL_Plan>https://ww2.mondialrelay.com/public/permanent/plan_relais.aspx?ens=BDTEST__11&amp;num=033873&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Plan>
+<Distance>0</Distance>
+</PointRelais_Details>
+<PointRelais_Details>
+<STAT />
+<Num>027980</Num>
+<LgAdr1>SINFONIE</LgAdr1>
+<LgAdr2 />
+<LgAdr3>4 BOULEVARD NATIONAL</LgAdr3>
+<LgAdr4 />
+<CP>13001</CP>
+<Ville>MARSEILLE</Ville>
+<Pays>FR</Pays>
+<Localisation1> </Localisation1>
+<Latitude>43,3016879</Latitude>
+<Longitude>5,3876874</Longitude>
+<TypeActivite />
+<Information />
+<Horaires_Lundi>
+<string />
+<string />
+<string />
+<string />
+</Horaires_Lundi>
+<Horaires_Mardi>
+<string>1000</string>
+<string>1300</string>
+<string>1400</string>
+<string>1900</string>
+</Horaires_Mardi>
+<Horaires_Mercredi>
+<string>1000</string>
+<string>1300</string>
+<string>1400</string>
+<string>1900</string>
+</Horaires_Mercredi>
+<Horaires_Jeudi>
+<string>1000</string>
+<string>1300</string>
+<string>1400</string>
+<string>1900</string>
+</Horaires_Jeudi>
+<Horaires_Vendredi>
+<string>1000</string>
+<string>1200</string>
+<string>1400</string>
+<string>1900</string>
+</Horaires_Vendredi>
+<Horaires_Samedi>
+<string>1000</string>
+<string>1300</string>
+<string>1400</string>
+<string>1900</string>
+</Horaires_Samedi>
+<Horaires_Dimanche>
+<string />
+<string />
+<string />
+<string />
+</Horaires_Dimanche>
+<Informations_Dispo />
+<URL_Photo>https://ww2.mondialrelay.com/public/permanent/photo_relais.aspx?ens=BDTEST__11&amp;num=027980&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Photo>
+<URL_Plan>https://ww2.mondialrelay.com/public/permanent/plan_relais.aspx?ens=BDTEST__11&amp;num=027980&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Plan>
+<Distance>0</Distance>
+</PointRelais_Details>
+<PointRelais_Details>
+<STAT />
+<Num>033877</Num>
+<LgAdr1>LOCKER CANI STAR 13001 MARSEILL</LgAdr1>
+<LgAdr2 />
+<LgAdr3>61 BOULEVARD DE LA LIBERATION</LgAdr3>
+<LgAdr4 />
+<CP>13001</CP>
+<Ville>MARSEILLE</Ville>
+<Pays>FR</Pays>
+<Localisation1> </Localisation1>
+<Latitude>43,3001968</Latitude>
+<Longitude>5,3883819</Longitude>
+<TypeActivite />
+<Information>LOCKER</Information>
+<Horaires_Lundi>
+<string>0900</string>
+<string>1200</string>
+<string>1400</string>
+<string>1800</string>
+</Horaires_Lundi>
+<Horaires_Mardi>
+<string>0900</string>
+<string>1200</string>
+<string>1400</string>
+<string>1800</string>
+</Horaires_Mardi>
+<Horaires_Mercredi>
+<string>0900</string>
+<string>1200</string>
+<string>1400</string>
+<string>1800</string>
+</Horaires_Mercredi>
+<Horaires_Jeudi>
+<string>0900</string>
+<string>1200</string>
+<string>1400</string>
+<string>1800</string>
+</Horaires_Jeudi>
+<Horaires_Vendredi>
+<string>0900</string>
+<string>1200</string>
+<string>1400</string>
+<string>1800</string>
+</Horaires_Vendredi>
+<Horaires_Samedi>
+<string>1000</string>
+<string>1200</string>
+<string>1400</string>
+<string>1800</string>
+</Horaires_Samedi>
+<Horaires_Dimanche>
+<string />
+<string />
+<string />
+<string />
+</Horaires_Dimanche>
+<Informations_Dispo />
+<URL_Photo>https://ww2.mondialrelay.com/public/permanent/photo_relais.aspx?ens=BDTEST__11&amp;num=033877&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Photo>
+<URL_Plan>https://ww2.mondialrelay.com/public/permanent/plan_relais.aspx?ens=BDTEST__11&amp;num=033877&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Plan>
+<Distance>0</Distance>
+</PointRelais_Details>
+<PointRelais_Details>
+<STAT />
+<Num>036925</Num>
+<LgAdr1>VIVAL SAINT SAVOURNIN</LgAdr1>
+<LgAdr2 />
+<LgAdr3>33 RUE SAINT-SAVOURNIN</LgAdr3>
+<LgAdr4 />
+<CP>13005</CP>
+<Ville>MARSEILLE</Ville>
+<Pays>FR</Pays>
+<Localisation1> </Localisation1>
+<Latitude>43,298555</Latitude>
+<Longitude>5,388086</Longitude>
+<TypeActivite />
+<Information />
+<Horaires_Lundi>
+<string>0900</string>
+<string>2359</string>
+<string />
+<string />
+</Horaires_Lundi>
+<Horaires_Mardi>
+<string>0900</string>
+<string>2359</string>
+<string />
+<string />
+</Horaires_Mardi>
+<Horaires_Mercredi>
+<string>0900</string>
+<string>2359</string>
+<string />
+<string />
+</Horaires_Mercredi>
+<Horaires_Jeudi>
+<string>0900</string>
+<string>2359</string>
+<string />
+<string />
+</Horaires_Jeudi>
+<Horaires_Vendredi>
+<string>0900</string>
+<string>2359</string>
+<string />
+<string />
+</Horaires_Vendredi>
+<Horaires_Samedi>
+<string>0900</string>
+<string>2359</string>
+<string />
+<string />
+</Horaires_Samedi>
+<Horaires_Dimanche>
+<string>0900</string>
+<string>2359</string>
+<string />
+<string />
+</Horaires_Dimanche>
+<Informations_Dispo />
+<URL_Photo>https://ww2.mondialrelay.com/public/permanent/photo_relais.aspx?ens=BDTEST__11&amp;num=036925&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Photo>
+<URL_Plan>https://ww2.mondialrelay.com/public/permanent/plan_relais.aspx?ens=BDTEST__11&amp;num=036925&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Plan>
+<Distance>0</Distance>
+</PointRelais_Details>
+<PointRelais_Details>
+<STAT />
+<Num>033369</Num>
+<LgAdr1>LOCKER MAGIC GARDEN</LgAdr1>
+<LgAdr2 />
+<LgAdr3>3 RUE SAINT-SAVOURNIN</LgAdr3>
+<LgAdr4 />
+<CP>13005</CP>
+<Ville>MARSEILLE</Ville>
+<Pays>FR</Pays>
+<Localisation1> </Localisation1>
+<Latitude>43,2998662</Latitude>
+<Longitude>5,3886587</Longitude>
+<TypeActivite />
+<Information>LOCKER</Information>
+<Horaires_Lundi>
+<string />
+<string />
+<string />
+<string />
+</Horaires_Lundi>
+<Horaires_Mardi>
+<string>1000</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Mardi>
+<Horaires_Mercredi>
+<string>1000</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Mercredi>
+<Horaires_Jeudi>
+<string>1000</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Jeudi>
+<Horaires_Vendredi>
+<string>1000</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Vendredi>
+<Horaires_Samedi>
+<string>1000</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Samedi>
+<Horaires_Dimanche>
+<string />
+<string />
+<string />
+<string />
+</Horaires_Dimanche>
+<Informations_Dispo />
+<URL_Photo>https://ww2.mondialrelay.com/public/permanent/photo_relais.aspx?ens=BDTEST__11&amp;num=033369&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Photo>
+<URL_Plan>https://ww2.mondialrelay.com/public/permanent/plan_relais.aspx?ens=BDTEST__11&amp;num=033369&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Plan>
+<Distance>0</Distance>
+</PointRelais_Details>
+<PointRelais_Details>
+<STAT />
+<Num>000111</Num>
+<LgAdr1>PORTE DAIX NETPHONE</LgAdr1>
+<LgAdr2 />
+<LgAdr3>18 RUE FRANCIS DE PRESSENSE</LgAdr3>
+<LgAdr4>(PORTE D''AIX)</LgAdr4>
+<CP>13001</CP>
+<Ville>MARSEILLE</Ville>
+<Pays>FR</Pays>
+<Localisation1> </Localisation1>
+<Latitude>43,3007164</Latitude>
+<Longitude>5,3767114</Longitude>
+<TypeActivite />
+<Information />
+<Horaires_Lundi>
+<string>0845</string>
+<string>1215</string>
+<string>1400</string>
+<string>1800</string>
+</Horaires_Lundi>
+<Horaires_Mardi>
+<string>0845</string>
+<string>1215</string>
+<string>1400</string>
+<string>1800</string>
+</Horaires_Mardi>
+<Horaires_Mercredi>
+<string>0845</string>
+<string>1215</string>
+<string>1400</string>
+<string>1800</string>
+</Horaires_Mercredi>
+<Horaires_Jeudi>
+<string>0845</string>
+<string>1215</string>
+<string>1400</string>
+<string>1800</string>
+</Horaires_Jeudi>
+<Horaires_Vendredi>
+<string>0845</string>
+<string>1215</string>
+<string>1400</string>
+<string>1800</string>
+</Horaires_Vendredi>
+<Horaires_Samedi>
+<string>0900</string>
+<string>1215</string>
+<string>1400</string>
+<string>1730</string>
+</Horaires_Samedi>
+<Horaires_Dimanche>
+<string />
+<string />
+<string />
+<string />
+</Horaires_Dimanche>
+<Informations_Dispo />
+<URL_Photo>https://ww2.mondialrelay.com/public/permanent/photo_relais.aspx?ens=BDTEST__11&amp;num=000111&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Photo>
+<URL_Plan>https://ww2.mondialrelay.com/public/permanent/plan_relais.aspx?ens=BDTEST__11&amp;num=000111&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Plan>
+<Distance>0</Distance>
+</PointRelais_Details>
+<PointRelais_Details>
+<STAT />
+<Num>023059</Num>
+<LgAdr1>LOCKER NETPHONE PORTE DAIX MARS</LgAdr1>
+<LgAdr2 />
+<LgAdr3>18 RUE FRANCIS DE PRESSENSE</LgAdr3>
+<LgAdr4 />
+<CP>13001</CP>
+<Ville>MARSEILLE</Ville>
+<Pays>FR</Pays>
+<Localisation1> </Localisation1>
+<Latitude>43,3009419</Latitude>
+<Longitude>5,3766618</Longitude>
+<TypeActivite />
+<Information>LOCKER</Information>
+<Horaires_Lundi>
+<string>0900</string>
+<string>1200</string>
+<string>1400</string>
+<string>1730</string>
+</Horaires_Lundi>
+<Horaires_Mardi>
+<string>0900</string>
+<string>1200</string>
+<string>1400</string>
+<string>1730</string>
+</Horaires_Mardi>
+<Horaires_Mercredi>
+<string>0900</string>
+<string>1200</string>
+<string>1400</string>
+<string>1730</string>
+</Horaires_Mercredi>
+<Horaires_Jeudi>
+<string>0900</string>
+<string>1200</string>
+<string>1400</string>
+<string>1730</string>
+</Horaires_Jeudi>
+<Horaires_Vendredi>
+<string>0900</string>
+<string>1200</string>
+<string>1400</string>
+<string>1730</string>
+</Horaires_Vendredi>
+<Horaires_Samedi>
+<string>0930</string>
+<string>1200</string>
+<string>1430</string>
+<string>1700</string>
+</Horaires_Samedi>
+<Horaires_Dimanche>
+<string />
+<string />
+<string />
+<string />
+</Horaires_Dimanche>
+<Informations_Dispo />
+<URL_Photo>https://ww2.mondialrelay.com/public/permanent/photo_relais.aspx?ens=BDTEST__11&amp;num=023059&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Photo>
+<URL_Plan>https://ww2.mondialrelay.com/public/permanent/plan_relais.aspx?ens=BDTEST__11&amp;num=023059&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Plan>
+<Distance>0</Distance>
+</PointRelais_Details>
+<PointRelais_Details>
+<STAT />
+<Num>021144</Num>
+<LgAdr1>LOCKER 24/7 AUTO BILAN</LgAdr1>
+<LgAdr2 />
+<LgAdr3>10 BOULEVARD CAMILLE FLAMMARION</LgAdr3>
+<LgAdr4 />
+<CP>13001</CP>
+<Ville>MARSEILLE</Ville>
+<Pays>FR</Pays>
+<Localisation1> </Localisation1>
+<Latitude>43,303816</Latitude>
+<Longitude>5,386698</Longitude>
+<TypeActivite />
+<Information>LOCKER</Information>
+<Horaires_Lundi>
+<string>0001</string>
+<string>2359</string>
+<string />
+<string />
+</Horaires_Lundi>
+<Horaires_Mardi>
+<string>0001</string>
+<string>2359</string>
+<string />
+<string />
+</Horaires_Mardi>
+<Horaires_Mercredi>
+<string>0001</string>
+<string>2359</string>
+<string />
+<string />
+</Horaires_Mercredi>
+<Horaires_Jeudi>
+<string>0001</string>
+<string>2359</string>
+<string />
+<string />
+</Horaires_Jeudi>
+<Horaires_Vendredi>
+<string>0001</string>
+<string>2359</string>
+<string />
+<string />
+</Horaires_Vendredi>
+<Horaires_Samedi>
+<string>0001</string>
+<string>2359</string>
+<string />
+<string />
+</Horaires_Samedi>
+<Horaires_Dimanche>
+<string>0001</string>
+<string>2359</string>
+<string />
+<string />
+</Horaires_Dimanche>
+<Informations_Dispo />
+<URL_Photo>https://ww2.mondialrelay.com/public/permanent/photo_relais.aspx?ens=BDTEST__11&amp;num=021144&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Photo>
+<URL_Plan>https://ww2.mondialrelay.com/public/permanent/plan_relais.aspx?ens=BDTEST__11&amp;num=021144&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Plan>
+<Distance>0</Distance>
+</PointRelais_Details>
+<PointRelais_Details>
+<STAT />
+<Num>038813</Num>
+<LgAdr1>LOCKER CYBER PHONE ACADEMY</LgAdr1>
+<LgAdr2 />
+<LgAdr3>20 RUE DE L''ACADEMIE</LgAdr3>
+<LgAdr4 />
+<CP>13001</CP>
+<Ville>MARSEILLE</Ville>
+<Pays>FR</Pays>
+<Localisation1> </Localisation1>
+<Latitude>43,2955988</Latitude>
+<Longitude>5,3807471</Longitude>
+<TypeActivite />
+<Information>LOCKER</Information>
+<Horaires_Lundi>
+<string>0900</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Lundi>
+<Horaires_Mardi>
+<string>0900</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Mardi>
+<Horaires_Mercredi>
+<string>0900</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Mercredi>
+<Horaires_Jeudi>
+<string>0900</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Jeudi>
+<Horaires_Vendredi>
+<string>0900</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Vendredi>
+<Horaires_Samedi>
+<string>0900</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Samedi>
+<Horaires_Dimanche>
+<string>0900</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Dimanche>
+<Informations_Dispo />
+<URL_Photo>https://ww2.mondialrelay.com/public/permanent/photo_relais.aspx?ens=BDTEST__11&amp;num=038813&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Photo>
+<URL_Plan>https://ww2.mondialrelay.com/public/permanent/plan_relais.aspx?ens=BDTEST__11&amp;num=038813&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Plan>
+<Distance>0</Distance>
+</PointRelais_Details>
+<PointRelais_Details>
+<STAT />
+<Num>036091</Num>
+<LgAdr1>COPY CENTER SERVICES 13001</LgAdr1>
+<LgAdr2 />
+<LgAdr3>8 SQUARE BELSUNCE</LgAdr3>
+<LgAdr4 />
+<CP>13001</CP>
+<Ville>MARSEILLE</Ville>
+<Pays>FR</Pays>
+<Localisation1> </Localisation1>
+<Latitude>43,297644</Latitude>
+<Longitude>5,376633</Longitude>
+<TypeActivite />
+<Information />
+<Horaires_Lundi>
+<string>0900</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Lundi>
+<Horaires_Mardi>
+<string>0900</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Mardi>
+<Horaires_Mercredi>
+<string>0900</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Mercredi>
+<Horaires_Jeudi>
+<string>0900</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Jeudi>
+<Horaires_Vendredi>
+<string>0900</string>
+<string>1300</string>
+<string>1430</string>
+<string>1900</string>
+</Horaires_Vendredi>
+<Horaires_Samedi>
+<string>1000</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Samedi>
+<Horaires_Dimanche>
+<string />
+<string />
+<string />
+<string />
+</Horaires_Dimanche>
+<Informations_Dispo />
+<URL_Photo>https://ww2.mondialrelay.com/public/permanent/photo_relais.aspx?ens=BDTEST__11&amp;num=036091&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Photo>
+<URL_Plan>https://ww2.mondialrelay.com/public/permanent/plan_relais.aspx?ens=BDTEST__11&amp;num=036091&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Plan>
+<Distance>0</Distance>
+</PointRelais_Details>
+<PointRelais_Details>
+<STAT />
+<Num>035142</Num>
+<LgAdr1>LOCKER RIBEL COM</LgAdr1>
+<LgAdr2 />
+<LgAdr3>71 RUE HONNORAT</LgAdr3>
+<LgAdr4 />
+<CP>13003</CP>
+<Ville>MARSEILLE</Ville>
+<Pays>FR</Pays>
+<Localisation1> </Localisation1>
+<Latitude>43,3054691</Latitude>
+<Longitude>5,3835186</Longitude>
+<TypeActivite />
+<Information>LOCKER</Information>
+<Horaires_Lundi>
+<string>0900</string>
+<string>2000</string>
+<string />
+<string />
+</Horaires_Lundi>
+<Horaires_Mardi>
+<string>0900</string>
+<string>2000</string>
+<string />
+<string />
+</Horaires_Mardi>
+<Horaires_Mercredi>
+<string>0900</string>
+<string>2000</string>
+<string />
+<string />
+</Horaires_Mercredi>
+<Horaires_Jeudi>
+<string>0900</string>
+<string>2000</string>
+<string />
+<string />
+</Horaires_Jeudi>
+<Horaires_Vendredi>
+<string>0900</string>
+<string>2000</string>
+<string />
+<string />
+</Horaires_Vendredi>
+<Horaires_Samedi>
+<string>0900</string>
+<string>2000</string>
+<string />
+<string />
+</Horaires_Samedi>
+<Horaires_Dimanche>
+<string>0900</string>
+<string>2000</string>
+<string />
+<string />
+</Horaires_Dimanche>
+<Informations_Dispo>
+<Periode>
+<Debut xsi:nil="true" />
+<Fin xsi:nil="true" />
+</Periode>
+</Informations_Dispo>
+<URL_Photo>https://ww2.mondialrelay.com/public/permanent/photo_relais.aspx?ens=BDTEST__11&amp;num=035142&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Photo>
+<URL_Plan>https://ww2.mondialrelay.com/public/permanent/plan_relais.aspx?ens=BDTEST__11&amp;num=035142&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Plan>
+<Distance>0</Distance>
+</PointRelais_Details>
+<PointRelais_Details>
+<STAT />
+<Num>037561</Num>
+<LgAdr1>LOCKER 24/7 GARAGE TERRUSSE</LgAdr1>
+<LgAdr2 />
+<LgAdr3>23 RUE TERRUSSE</LgAdr3>
+<LgAdr4 />
+<CP>13005</CP>
+<Ville>MARSEILLE</Ville>
+<Pays>FR</Pays>
+<Localisation1> </Localisation1>
+<Latitude>43,296316</Latitude>
+<Longitude>5,3882629</Longitude>
+<TypeActivite />
+<Information>LOCKER</Information>
+<Horaires_Lundi>
+<string>0001</string>
+<string>2359</string>
+<string />
+<string />
+</Horaires_Lundi>
+<Horaires_Mardi>
+<string>0001</string>
+<string>2359</string>
+<string />
+<string />
+</Horaires_Mardi>
+<Horaires_Mercredi>
+<string>0001</string>
+<string>2359</string>
+<string />
+<string />
+</Horaires_Mercredi>
+<Horaires_Jeudi>
+<string>0001</string>
+<string>2359</string>
+<string />
+<string />
+</Horaires_Jeudi>
+<Horaires_Vendredi>
+<string>0001</string>
+<string>2359</string>
+<string />
+<string />
+</Horaires_Vendredi>
+<Horaires_Samedi>
+<string>0001</string>
+<string>2359</string>
+<string />
+<string />
+</Horaires_Samedi>
+<Horaires_Dimanche>
+<string>0001</string>
+<string>2359</string>
+<string />
+<string />
+</Horaires_Dimanche>
+<Informations_Dispo>
+<Periode>
+<Debut xsi:nil="true" />
+<Fin xsi:nil="true" />
+</Periode>
+</Informations_Dispo>
+<URL_Photo>https://ww2.mondialrelay.com/public/permanent/photo_relais.aspx?ens=BDTEST__11&amp;num=037561&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Photo>
+<URL_Plan>https://ww2.mondialrelay.com/public/permanent/plan_relais.aspx?ens=BDTEST__11&amp;num=037561&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Plan>
+<Distance>0</Distance>
+</PointRelais_Details>
+<PointRelais_Details>
+<STAT />
+<Num>050169</Num>
+<LgAdr1>LOCKER CC BOURSE</LgAdr1>
+<LgAdr2 />
+<LgAdr3>17 COURS BELSUNCE</LgAdr3>
+<LgAdr4 />
+<CP>13001</CP>
+<Ville>MARSEILLE</Ville>
+<Pays>FR</Pays>
+<Localisation1> </Localisation1>
+<Latitude>43,2975871</Latitude>
+<Longitude>5,3759814</Longitude>
+<TypeActivite />
+<Information>LOCKER</Information>
+<Horaires_Lundi>
+<string>1000</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Lundi>
+<Horaires_Mardi>
+<string>1000</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Mardi>
+<Horaires_Mercredi>
+<string>1000</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Mercredi>
+<Horaires_Jeudi>
+<string>1000</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Jeudi>
+<Horaires_Vendredi>
+<string>1000</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Vendredi>
+<Horaires_Samedi>
+<string>1000</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Samedi>
+<Horaires_Dimanche>
+<string />
+<string />
+<string />
+<string />
+</Horaires_Dimanche>
+<Informations_Dispo />
+<URL_Photo>https://ww2.mondialrelay.com/public/permanent/photo_relais.aspx?ens=BDTEST__11&amp;num=050169&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Photo>
+<URL_Plan>https://ww2.mondialrelay.com/public/permanent/plan_relais.aspx?ens=BDTEST__11&amp;num=050169&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Plan>
+<Distance>0</Distance>
+</PointRelais_Details>
+<PointRelais_Details>
+<STAT />
+<Num>038494</Num>
+<LgAdr1>ZOU TEL</LgAdr1>
+<LgAdr2 />
+<LgAdr3>7 RUE ROUVIERE</LgAdr3>
+<LgAdr4 />
+<CP>13001</CP>
+<Ville>MARSEILLE</Ville>
+<Pays>FR</Pays>
+<Localisation1> </Localisation1>
+<Latitude>43,2948919</Latitude>
+<Longitude>5,3796681</Longitude>
+<TypeActivite />
+<Information />
+<Horaires_Lundi>
+<string>1000</string>
+<string>2000</string>
+<string />
+<string />
+</Horaires_Lundi>
+<Horaires_Mardi>
+<string>1000</string>
+<string>2000</string>
+<string />
+<string />
+</Horaires_Mardi>
+<Horaires_Mercredi>
+<string>1000</string>
+<string>2000</string>
+<string />
+<string />
+</Horaires_Mercredi>
+<Horaires_Jeudi>
+<string>1000</string>
+<string>2000</string>
+<string />
+<string />
+</Horaires_Jeudi>
+<Horaires_Vendredi>
+<string>1000</string>
+<string>2000</string>
+<string />
+<string />
+</Horaires_Vendredi>
+<Horaires_Samedi>
+<string>1000</string>
+<string>2000</string>
+<string />
+<string />
+</Horaires_Samedi>
+<Horaires_Dimanche>
+<string />
+<string />
+<string />
+<string />
+</Horaires_Dimanche>
+<Informations_Dispo />
+<URL_Photo>https://ww2.mondialrelay.com/public/permanent/photo_relais.aspx?ens=BDTEST__11&amp;num=038494&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Photo>
+<URL_Plan>https://ww2.mondialrelay.com/public/permanent/plan_relais.aspx?ens=BDTEST__11&amp;num=038494&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Plan>
+<Distance>0</Distance>
+</PointRelais_Details>
+<PointRelais_Details>
+<STAT />
+<Num>032945</Num>
+<LgAdr1>LOCKER CARREFOUR MARKET</LgAdr1>
+<LgAdr2 />
+<LgAdr3>26 TER BOULEVARD CAMILLE FLAMMA</LgAdr3>
+<LgAdr4 />
+<CP>13001</CP>
+<Ville>MARSEILLE</Ville>
+<Pays>FR</Pays>
+<Localisation1> </Localisation1>
+<Latitude>43,304258</Latitude>
+<Longitude>5,389019</Longitude>
+<TypeActivite />
+<Information>LOCKER</Information>
+<Horaires_Lundi>
+<string>0830</string>
+<string>2100</string>
+<string />
+<string />
+</Horaires_Lundi>
+<Horaires_Mardi>
+<string>0830</string>
+<string>2100</string>
+<string />
+<string />
+</Horaires_Mardi>
+<Horaires_Mercredi>
+<string>0830</string>
+<string>2100</string>
+<string />
+<string />
+</Horaires_Mercredi>
+<Horaires_Jeudi>
+<string>0830</string>
+<string>2100</string>
+<string />
+<string />
+</Horaires_Jeudi>
+<Horaires_Vendredi>
+<string>0830</string>
+<string>2100</string>
+<string />
+<string />
+</Horaires_Vendredi>
+<Horaires_Samedi>
+<string>0830</string>
+<string>2100</string>
+<string />
+<string />
+</Horaires_Samedi>
+<Horaires_Dimanche>
+<string>0830</string>
+<string>2100</string>
+<string />
+<string />
+</Horaires_Dimanche>
+<Informations_Dispo />
+<URL_Photo>https://ww2.mondialrelay.com/public/permanent/photo_relais.aspx?ens=BDTEST__11&amp;num=032945&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Photo>
+<URL_Plan>https://ww2.mondialrelay.com/public/permanent/plan_relais.aspx?ens=BDTEST__11&amp;num=032945&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Plan>
+<Distance>0</Distance>
+</PointRelais_Details>
+<PointRelais_Details>
+<STAT />
+<Num>030145</Num>
+<LgAdr1>LOCKER TABAC LE PAOLI 13005 MAR</LgAdr1>
+<LgAdr2 />
+<LgAdr3>59 BOULEVARD EUGENE PIERRE</LgAdr3>
+<LgAdr4 />
+<CP>13005</CP>
+<Ville>MARSEILLE</Ville>
+<Pays>FR</Pays>
+<Localisation1> </Localisation1>
+<Latitude>43,296504</Latitude>
+<Longitude>5,3908643</Longitude>
+<TypeActivite />
+<Information>LOCKER</Information>
+<Horaires_Lundi>
+<string>0700</string>
+<string>2100</string>
+<string />
+<string />
+</Horaires_Lundi>
+<Horaires_Mardi>
+<string>0700</string>
+<string>2100</string>
+<string />
+<string />
+</Horaires_Mardi>
+<Horaires_Mercredi>
+<string>0700</string>
+<string>2100</string>
+<string />
+<string />
+</Horaires_Mercredi>
+<Horaires_Jeudi>
+<string>0700</string>
+<string>2100</string>
+<string />
+<string />
+</Horaires_Jeudi>
+<Horaires_Vendredi>
+<string>0700</string>
+<string>2100</string>
+<string />
+<string />
+</Horaires_Vendredi>
+<Horaires_Samedi>
+<string>0700</string>
+<string>2100</string>
+<string />
+<string />
+</Horaires_Samedi>
+<Horaires_Dimanche>
+<string>0700</string>
+<string>1400</string>
+<string />
+<string />
+</Horaires_Dimanche>
+<Informations_Dispo />
+<URL_Photo>https://ww2.mondialrelay.com/public/permanent/photo_relais.aspx?ens=BDTEST__11&amp;num=030145&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Photo>
+<URL_Plan>https://ww2.mondialrelay.com/public/permanent/plan_relais.aspx?ens=BDTEST__11&amp;num=030145&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Plan>
+<Distance>0</Distance>
+</PointRelais_Details>
+<PointRelais_Details>
+<STAT />
+<Num>030822</Num>
+<LgAdr1>LOCKER LAVERIE LA PINCE A LINGE</LgAdr1>
+<LgAdr2 />
+<LgAdr3>67 BOULEVARD EUGENE PIERRE</LgAdr3>
+<LgAdr4 />
+<CP>13005</CP>
+<Ville>MARSEILLE</Ville>
+<Pays>FR</Pays>
+<Localisation1> </Localisation1>
+<Latitude>43,2960608</Latitude>
+<Longitude>5,3908875</Longitude>
+<TypeActivite />
+<Information>LOCKER</Information>
+<Horaires_Lundi>
+<string>0700</string>
+<string>2000</string>
+<string />
+<string />
+</Horaires_Lundi>
+<Horaires_Mardi>
+<string>0700</string>
+<string>2000</string>
+<string />
+<string />
+</Horaires_Mardi>
+<Horaires_Mercredi>
+<string>0700</string>
+<string>2000</string>
+<string />
+<string />
+</Horaires_Mercredi>
+<Horaires_Jeudi>
+<string>0700</string>
+<string>2000</string>
+<string />
+<string />
+</Horaires_Jeudi>
+<Horaires_Vendredi>
+<string>0700</string>
+<string>2000</string>
+<string />
+<string />
+</Horaires_Vendredi>
+<Horaires_Samedi>
+<string>0700</string>
+<string>2000</string>
+<string />
+<string />
+</Horaires_Samedi>
+<Horaires_Dimanche>
+<string>0700</string>
+<string>2000</string>
+<string />
+<string />
+</Horaires_Dimanche>
+<Informations_Dispo />
+<URL_Photo>https://ww2.mondialrelay.com/public/permanent/photo_relais.aspx?ens=BDTEST__11&amp;num=030822&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Photo>
+<URL_Plan>https://ww2.mondialrelay.com/public/permanent/plan_relais.aspx?ens=BDTEST__11&amp;num=030822&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Plan>
+<Distance>0</Distance>
+</PointRelais_Details>
+<PointRelais_Details>
+<STAT />
+<Num>027874</Num>
+<LgAdr1>LOCKER STATION DU CAMAS 13005 M</LgAdr1>
+<LgAdr2 />
+<LgAdr3>19 RUE DU CAMAS</LgAdr3>
+<LgAdr4 />
+<CP>13005</CP>
+<Ville>MARSEILLE</Ville>
+<Pays>FR</Pays>
+<Localisation1> </Localisation1>
+<Latitude>43,2988206</Latitude>
+<Longitude>5,3924877</Longitude>
+<TypeActivite />
+<Information>LOCKER</Information>
+<Horaires_Lundi>
+<string>0700</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Lundi>
+<Horaires_Mardi>
+<string>0700</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Mardi>
+<Horaires_Mercredi>
+<string>0700</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Mercredi>
+<Horaires_Jeudi>
+<string>0700</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Jeudi>
+<Horaires_Vendredi>
+<string>0700</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Vendredi>
+<Horaires_Samedi>
+<string>0700</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Samedi>
+<Horaires_Dimanche>
+<string />
+<string />
+<string />
+<string />
+</Horaires_Dimanche>
+<Informations_Dispo />
+<URL_Photo>https://ww2.mondialrelay.com/public/permanent/photo_relais.aspx?ens=BDTEST__11&amp;num=027874&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Photo>
+<URL_Plan>https://ww2.mondialrelay.com/public/permanent/plan_relais.aspx?ens=BDTEST__11&amp;num=027874&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Plan>
+<Distance>0</Distance>
+</PointRelais_Details>
+<PointRelais_Details>
+<STAT />
+<Num>033602</Num>
+<LgAdr1>LOCKER JOY AND TECH 2</LgAdr1>
+<LgAdr2 />
+<LgAdr3>56 RUE PUVIS DE CHAVANNES</LgAdr3>
+<LgAdr4 />
+<CP>13002</CP>
+<Ville>MARSEILLE</Ville>
+<Pays>FR</Pays>
+<Localisation1> </Localisation1>
+<Latitude>43,2994357</Latitude>
+<Longitude>5,3730086</Longitude>
+<TypeActivite />
+<Information>LOCKER</Information>
+<Horaires_Lundi>
+<string>1000</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Lundi>
+<Horaires_Mardi>
+<string>1000</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Mardi>
+<Horaires_Mercredi>
+<string>1000</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Mercredi>
+<Horaires_Jeudi>
+<string>1000</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Jeudi>
+<Horaires_Vendredi>
+<string>1000</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Vendredi>
+<Horaires_Samedi>
+<string>1000</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Samedi>
+<Horaires_Dimanche>
+<string>1000</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Dimanche>
+<Informations_Dispo />
+<URL_Photo>https://ww2.mondialrelay.com/public/permanent/photo_relais.aspx?ens=BDTEST__11&amp;num=033602&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Photo>
+<URL_Plan>https://ww2.mondialrelay.com/public/permanent/plan_relais.aspx?ens=BDTEST__11&amp;num=033602&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Plan>
+<Distance>0</Distance>
+</PointRelais_Details>
+<PointRelais_Details>
+<STAT />
+<Num>032675</Num>
+<LgAdr1>LOCKER HAGEC CONFECTION 13003 M</LgAdr1>
+<LgAdr2 />
+<LgAdr3>30 RUE DU GENIE</LgAdr3>
+<LgAdr4 />
+<CP>13003</CP>
+<Ville>MARSEILLE</Ville>
+<Pays>FR</Pays>
+<Localisation1> </Localisation1>
+<Latitude>43,307539</Latitude>
+<Longitude>5,383351</Longitude>
+<TypeActivite />
+<Information>LOCKER</Information>
+<Horaires_Lundi>
+<string>1000</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Lundi>
+<Horaires_Mardi>
+<string>1000</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Mardi>
+<Horaires_Mercredi>
+<string>1000</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Mercredi>
+<Horaires_Jeudi>
+<string>1000</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Jeudi>
+<Horaires_Vendredi>
+<string>1000</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Vendredi>
+<Horaires_Samedi>
+<string>1000</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Samedi>
+<Horaires_Dimanche>
+<string />
+<string />
+<string />
+<string />
+</Horaires_Dimanche>
+<Informations_Dispo />
+<URL_Photo>https://ww2.mondialrelay.com/public/permanent/photo_relais.aspx?ens=BDTEST__11&amp;num=032675&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Photo>
+<URL_Plan>https://ww2.mondialrelay.com/public/permanent/plan_relais.aspx?ens=BDTEST__11&amp;num=032675&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Plan>
+<Distance>1000</Distance>
+</PointRelais_Details>
+<PointRelais_Details>
+<STAT />
+<Num>039694</Num>
+<LgAdr1>LOCKER CASH GSM</LgAdr1>
+<LgAdr2 />
+<LgAdr3>85 RUE DE ROME</LgAdr3>
+<LgAdr4 />
+<CP>13006</CP>
+<Ville>MARSEILLE</Ville>
+<Pays>FR</Pays>
+<Localisation1> </Localisation1>
+<Latitude>43,2923309</Latitude>
+<Longitude>5,3800918</Longitude>
+<TypeActivite />
+<Information>LOCKER</Information>
+<Horaires_Lundi>
+<string>1030</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Lundi>
+<Horaires_Mardi>
+<string>1030</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Mardi>
+<Horaires_Mercredi>
+<string>1030</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Mercredi>
+<Horaires_Jeudi>
+<string>1030</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Jeudi>
+<Horaires_Vendredi>
+<string>1030</string>
+<string>1300</string>
+<string>1400</string>
+<string>1900</string>
+</Horaires_Vendredi>
+<Horaires_Samedi>
+<string>1030</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Samedi>
+<Horaires_Dimanche>
+<string />
+<string />
+<string />
+<string />
+</Horaires_Dimanche>
+<Informations_Dispo />
+<URL_Photo>https://ww2.mondialrelay.com/public/permanent/photo_relais.aspx?ens=BDTEST__11&amp;num=039694&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Photo>
+<URL_Plan>https://ww2.mondialrelay.com/public/permanent/plan_relais.aspx?ens=BDTEST__11&amp;num=039694&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Plan>
+<Distance>1000</Distance>
+</PointRelais_Details>
+<PointRelais_Details>
+<STAT />
+<Num>026487</Num>
+<LgAdr1>LOCKER WESTERN UNION MARSEILLE</LgAdr1>
+<LgAdr2 />
+<LgAdr3>165 BOULEVARD NATIONAL</LgAdr3>
+<LgAdr4 />
+<CP>13003</CP>
+<Ville>MARSEILLE</Ville>
+<Pays>FR</Pays>
+<Localisation1> </Localisation1>
+<Latitude>43,308412</Latitude>
+<Longitude>5,380908</Longitude>
+<TypeActivite />
+<Information>LOCKER</Information>
+<Horaires_Lundi>
+<string>0930</string>
+<string>1200</string>
+<string>1400</string>
+<string>1900</string>
+</Horaires_Lundi>
+<Horaires_Mardi>
+<string>0930</string>
+<string>1200</string>
+<string>1400</string>
+<string>1900</string>
+</Horaires_Mardi>
+<Horaires_Mercredi>
+<string>0930</string>
+<string>1200</string>
+<string>1400</string>
+<string>1900</string>
+</Horaires_Mercredi>
+<Horaires_Jeudi>
+<string>0930</string>
+<string>1200</string>
+<string>1400</string>
+<string>1900</string>
+</Horaires_Jeudi>
+<Horaires_Vendredi>
+<string>0930</string>
+<string>1200</string>
+<string>1400</string>
+<string>1900</string>
+</Horaires_Vendredi>
+<Horaires_Samedi>
+<string>0930</string>
+<string>1200</string>
+<string>1400</string>
+<string>1900</string>
+</Horaires_Samedi>
+<Horaires_Dimanche>
+<string />
+<string />
+<string />
+<string />
+</Horaires_Dimanche>
+<Informations_Dispo>
+<Periode>
+<Debut xsi:nil="true" />
+<Fin xsi:nil="true" />
+</Periode>
+</Informations_Dispo>
+<URL_Photo>https://ww2.mondialrelay.com/public/permanent/photo_relais.aspx?ens=BDTEST__11&amp;num=026487&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Photo>
+<URL_Plan>https://ww2.mondialrelay.com/public/permanent/plan_relais.aspx?ens=BDTEST__11&amp;num=026487&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Plan>
+<Distance>1000</Distance>
+</PointRelais_Details>
+<PointRelais_Details>
+<STAT />
+<Num>039846</Num>
+<LgAdr1>LOCKER POUX SHOP MARSEILLE</LgAdr1>
+<LgAdr2 />
+<LgAdr3>11 RUE JEAN TRINQUET</LgAdr3>
+<LgAdr4 />
+<CP>13002</CP>
+<Ville>MARSEILLE</Ville>
+<Pays>FR</Pays>
+<Localisation1> </Localisation1>
+<Latitude>43,3008938</Latitude>
+<Longitude>5,3712252</Longitude>
+<TypeActivite />
+<Information>LOCKER</Information>
+<Horaires_Lundi>
+<string />
+<string />
+<string />
+<string />
+</Horaires_Lundi>
+<Horaires_Mardi>
+<string>1000</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Mardi>
+<Horaires_Mercredi>
+<string>1000</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Mercredi>
+<Horaires_Jeudi>
+<string>1000</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Jeudi>
+<Horaires_Vendredi>
+<string>1000</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Vendredi>
+<Horaires_Samedi>
+<string>1000</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Samedi>
+<Horaires_Dimanche>
+<string />
+<string />
+<string />
+<string />
+</Horaires_Dimanche>
+<Informations_Dispo />
+<URL_Photo>https://ww2.mondialrelay.com/public/permanent/photo_relais.aspx?ens=BDTEST__11&amp;num=039846&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Photo>
+<URL_Plan>https://ww2.mondialrelay.com/public/permanent/plan_relais.aspx?ens=BDTEST__11&amp;num=039846&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Plan>
+<Distance>1000</Distance>
+</PointRelais_Details>
+<PointRelais_Details>
+<STAT />
+<Num>036671</Num>
+<LgAdr1>POINT RELAIS POUX SHOP MARSEILL</LgAdr1>
+<LgAdr2 />
+<LgAdr3>11 RUE JEAN TRINQUET</LgAdr3>
+<LgAdr4 />
+<CP>13002</CP>
+<Ville>MARSEILLE</Ville>
+<Pays>FR</Pays>
+<Localisation1> </Localisation1>
+<Latitude>43,3006518</Latitude>
+<Longitude>5,3711608</Longitude>
+<TypeActivite />
+<Information />
+<Horaires_Lundi>
+<string />
+<string />
+<string />
+<string />
+</Horaires_Lundi>
+<Horaires_Mardi>
+<string>1000</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Mardi>
+<Horaires_Mercredi>
+<string>1000</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Mercredi>
+<Horaires_Jeudi>
+<string>1000</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Jeudi>
+<Horaires_Vendredi>
+<string>1000</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Vendredi>
+<Horaires_Samedi>
+<string>1000</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Samedi>
+<Horaires_Dimanche>
+<string />
+<string />
+<string />
+<string />
+</Horaires_Dimanche>
+<Informations_Dispo />
+<URL_Photo>https://ww2.mondialrelay.com/public/permanent/photo_relais.aspx?ens=BDTEST__11&amp;num=036671&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Photo>
+<URL_Plan>https://ww2.mondialrelay.com/public/permanent/plan_relais.aspx?ens=BDTEST__11&amp;num=036671&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Plan>
+<Distance>1000</Distance>
+</PointRelais_Details>
+<PointRelais_Details>
+<STAT />
+<Num>031051</Num>
+<LgAdr1>LOCKER PARKING ESPERANDIEU</LgAdr1>
+<LgAdr2 />
+<LgAdr3>18 RUE ESPERENDIEU</LgAdr3>
+<LgAdr4>( INTERIEUR DU PARKING)</LgAdr4>
+<CP>13004</CP>
+<Ville>MARSEILLE</Ville>
+<Pays>FR</Pays>
+<Localisation1> </Localisation1>
+<Latitude>43,3031964</Latitude>
+<Longitude>5,3937255</Longitude>
+<TypeActivite />
+<Information>LOCKER</Information>
+<Horaires_Lundi>
+<string>0700</string>
+<string>2100</string>
+<string />
+<string />
+</Horaires_Lundi>
+<Horaires_Mardi>
+<string>0700</string>
+<string>2100</string>
+<string />
+<string />
+</Horaires_Mardi>
+<Horaires_Mercredi>
+<string>0700</string>
+<string>2100</string>
+<string />
+<string />
+</Horaires_Mercredi>
+<Horaires_Jeudi>
+<string>0700</string>
+<string>2100</string>
+<string />
+<string />
+</Horaires_Jeudi>
+<Horaires_Vendredi>
+<string>0700</string>
+<string>2100</string>
+<string />
+<string />
+</Horaires_Vendredi>
+<Horaires_Samedi>
+<string>0700</string>
+<string>2100</string>
+<string />
+<string />
+</Horaires_Samedi>
+<Horaires_Dimanche>
+<string>0700</string>
+<string>2100</string>
+<string />
+<string />
+</Horaires_Dimanche>
+<Informations_Dispo />
+<URL_Photo>https://ww2.mondialrelay.com/public/permanent/photo_relais.aspx?ens=BDTEST__11&amp;num=031051&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Photo>
+<URL_Plan>https://ww2.mondialrelay.com/public/permanent/plan_relais.aspx?ens=BDTEST__11&amp;num=031051&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Plan>
+<Distance>1000</Distance>
+</PointRelais_Details>
+<PointRelais_Details>
+<STAT />
+<Num>037952</Num>
+<LgAdr1>HASA</LgAdr1>
+<LgAdr2 />
+<LgAdr3>168 BOULEVARD NATIONAL</LgAdr3>
+<LgAdr4 />
+<CP>13003</CP>
+<Ville>MARSEILLE</Ville>
+<Pays>FR</Pays>
+<Localisation1> </Localisation1>
+<Latitude>43,308608</Latitude>
+<Longitude>5,381044</Longitude>
+<TypeActivite />
+<Information />
+<Horaires_Lundi>
+<string>0600</string>
+<string>2300</string>
+<string />
+<string />
+</Horaires_Lundi>
+<Horaires_Mardi>
+<string>0600</string>
+<string>2300</string>
+<string />
+<string />
+</Horaires_Mardi>
+<Horaires_Mercredi>
+<string>0600</string>
+<string>2300</string>
+<string />
+<string />
+</Horaires_Mercredi>
+<Horaires_Jeudi>
+<string>0600</string>
+<string>2300</string>
+<string />
+<string />
+</Horaires_Jeudi>
+<Horaires_Vendredi>
+<string>0600</string>
+<string>2300</string>
+<string />
+<string />
+</Horaires_Vendredi>
+<Horaires_Samedi>
+<string>0600</string>
+<string>2300</string>
+<string />
+<string />
+</Horaires_Samedi>
+<Horaires_Dimanche>
+<string>0600</string>
+<string>2300</string>
+<string />
+<string />
+</Horaires_Dimanche>
+<Informations_Dispo />
+<URL_Photo>https://ww2.mondialrelay.com/public/permanent/photo_relais.aspx?ens=BDTEST__11&amp;num=037952&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Photo>
+<URL_Plan>https://ww2.mondialrelay.com/public/permanent/plan_relais.aspx?ens=BDTEST__11&amp;num=037952&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Plan>
+<Distance>1000</Distance>
+</PointRelais_Details>
+</PointsRelais>
+</WSI4_PointRelais_RechercheResult>
+</WSI4_PointRelais_RechercheResponse>
+</soap:Body>
+</soap:Envelope>

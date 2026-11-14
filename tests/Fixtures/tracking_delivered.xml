@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<soap:Body>
+<WSI2_TracingColisDetailleResponse xmlns="http://www.mondialrelay.fr/webservice/">
+<WSI2_TracingColisDetailleResult>
+<STAT>82</STAT>
+<Libelle01>Livraison au point relais</Libelle01>
+<Relais_Libelle>CUCQ</Relais_Libelle>
+<Relais_Num>026595</Relais_Num>
+<Libelle02 />
+<Tracing>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle>RÉCEPTION DES DONNÉES</Libelle>
+<Date>28/07/26</Date>
+<Heure>10:23</Heure>
+<Emplacement />
+<Relais_Num />
+<Relais_Pays />
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle>PRISE EN CHARGE POINT RELAIS</Libelle>
+<Date>28/07/26</Date>
+<Heure>17:21</Heure>
+<Emplacement>BORDEAUX</Emplacement>
+<Relais_Num>021536</Relais_Num>
+<Relais_Pays>FR</Relais_Pays>
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle>AVISAGE PAR EMAIL</Libelle>
+<Date>28/07/26</Date>
+<Heure>17:24</Heure>
+<Emplacement />
+<Relais_Num />
+<Relais_Pays />
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle>PRISE EN CHARGE POINT RELAIS</Libelle>
+<Date>29/07/26</Date>
+<Heure>12:47</Heure>
+<Emplacement>BORDEAUX</Emplacement>
+<Relais_Num>021536</Relais_Num>
+<Relais_Pays>FR</Relais_Pays>
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle>Colis pris en charge sur le si</Libelle>
+<Date>29/07/26</Date>
+<Heure>22:12</Heure>
+<Emplacement>AGEN</Emplacement>
+<Relais_Num />
+<Relais_Pays>FR</Relais_Pays>
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle>PRISE EN CHARGE PAR LE TRANSPO</Libelle>
+<Date>29/07/26</Date>
+<Heure>22:39</Heure>
+<Emplacement>AGEN</Emplacement>
+<Relais_Num />
+<Relais_Pays>FR</Relais_Pays>
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle>EXPEDIE VERS LE HUB</Libelle>
+<Date>29/07/26</Date>
+<Heure>23:06</Heure>
+<Emplacement>AGEN</Emplacement>
+<Relais_Num />
+<Relais_Pays>FR</Relais_Pays>
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle>Colis pris en charge sur le si</Libelle>
+<Date>30/07/26</Date>
+<Heure>16:16</Heure>
+<Emplacement>REAU</Emplacement>
+<Relais_Num />
+<Relais_Pays>FR</Relais_Pays>
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle>PRISE EN CHARGE PAR LE TRANSPO</Libelle>
+<Date>30/07/26</Date>
+<Heure>16:16</Heure>
+<Emplacement>REAU</Emplacement>
+<Relais_Num />
+<Relais_Pays>FR</Relais_Pays>
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle>EXPEDIE VERS LE HUB</Libelle>
+<Date>30/07/26</Date>
+<Heure>21:07</Heure>
+<Emplacement>REAU</Emplacement>
+<Relais_Num />
+<Relais_Pays>FR</Relais_Pays>
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle>Colis pris en charge sur le si</Libelle>
+<Date>31/07/26</Date>
+<Heure>01:13</Heure>
+<Emplacement>HUB HARNES</Emplacement>
+<Relais_Num />
+<Relais_Pays>FR</Relais_Pays>
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle>PRISE EN CHARGE PAR LE TRANSPO</Libelle>
+<Date>31/07/26</Date>
+<Heure>01:13</Heure>
+<Emplacement>HUB HARNES</Emplacement>
+<Relais_Num />
+<Relais_Pays>FR</Relais_Pays>
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle>Colis pris en charge sur le si</Libelle>
+<Date>31/07/26</Date>
+<Heure>01:22</Heure>
+<Emplacement>HARNES</Emplacement>
+<Relais_Num />
+<Relais_Pays>FR</Relais_Pays>
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle>PRISE EN CHARGE PAR LE TRANSPO</Libelle>
+<Date>31/07/26</Date>
+<Heure>01:22</Heure>
+<Emplacement>HARNES</Emplacement>
+<Relais_Num />
+<Relais_Pays>FR</Relais_Pays>
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle>EN COURS DE LIVRAISON</Libelle>
+<Date>31/07/26</Date>
+<Heure>06:14</Heure>
+<Emplacement>HARNES</Emplacement>
+<Relais_Num />
+<Relais_Pays>FR</Relais_Pays>
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle>COLIS REMIS AU TRANSPORTEUR</Libelle>
+<Date>31/07/26</Date>
+<Heure>06:31</Heure>
+<Emplacement>HARNES</Emplacement>
+<Relais_Num />
+<Relais_Pays>FR</Relais_Pays>
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle>EN COURS DE LIVRAISON</Libelle>
+<Date>31/07/26</Date>
+<Heure>06:34</Heure>
+<Emplacement>HARNES</Emplacement>
+<Relais_Num />
+<Relais_Pays>FR</Relais_Pays>
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle>DISPONIBLE AU POINT RELAIS</Libelle>
+<Date>31/07/26</Date>
+<Heure>10:10</Heure>
+<Emplacement>HARNES</Emplacement>
+<Relais_Num>026595</Relais_Num>
+<Relais_Pays>FR</Relais_Pays>
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle>AVISAGE PAR EMAIL</Libelle>
+<Date>31/07/26</Date>
+<Heure>10:13</Heure>
+<Emplacement />
+<Relais_Num />
+<Relais_Pays />
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle>COLIS LIVRÉ</Libelle>
+<Date>31/07/26</Date>
+<Heure>10:39</Heure>
+<Emplacement>HARNES</Emplacement>
+<Relais_Num>026595</Relais_Num>
+<Relais_Pays>FR</Relais_Pays>
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle />
+<Date />
+<Heure />
+<Emplacement />
+<Relais_Num />
+<Relais_Pays />
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle />
+<Date />
+<Heure />
+<Emplacement />
+<Relais_Num />
+<Relais_Pays />
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle />
+<Date />
+<Heure />
+<Emplacement />
+<Relais_Num />
+<Relais_Pays />
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle />
+<Date />
+<Heure />
+<Emplacement />
+<Relais_Num />
+<Relais_Pays />
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle />
+<Date />
+<Heure />
+<Emplacement />
+<Relais_Num />
+<Relais_Pays />
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle />
+<Date />
+<Heure />
+<Emplacement />
+<Relais_Num />
+<Relais_Pays />
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle />
+<Date />
+<Heure />
+<Emplacement />
+<Relais_Num />
+<Relais_Pays />
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle />
+<Date />
+<Heure />
+<Emplacement />
+<Relais_Num />
+<Relais_Pays />
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle />
+<Date />
+<Heure />
+<Emplacement />
+<Relais_Num />
+<Relais_Pays />
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle />
+<Date />
+<Heure />
+<Emplacement />
+<Relais_Num />
+<Relais_Pays />
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle />
+<Date />
+<Heure />
+<Emplacement />
+<Relais_Num />
+<Relais_Pays />
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle />
+<Date />
+<Heure />
+<Emplacement />
+<Relais_Num />
+<Relais_Pays />
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle />
+<Date />
+<Heure />
+<Emplacement />
+<Relais_Num />
+<Relais_Pays />
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle />
+<Date />
+<Heure />
+<Emplacement />
+<Relais_Num />
+<Relais_Pays />
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle />
+<Date />
+<Heure />
+<Emplacement />
+<Relais_Num />
+<Relais_Pays />
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle />
+<Date />
+<Heure />
+<Emplacement />
+<Relais_Num />
+<Relais_Pays />
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle />
+<Date />
+<Heure />
+<Emplacement />
+<Relais_Num />
+<Relais_Pays />
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle />
+<Date />
+<Heure />
+<Emplacement />
+<Relais_Num />
+<Relais_Pays />
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle />
+<Date />
+<Heure />
+<Emplacement />
+<Relais_Num />
+<Relais_Pays />
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle />
+<Date />
+<Heure />
+<Emplacement />
+<Relais_Num />
+<Relais_Pays />
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle />
+<Date />
+<Heure />
+<Emplacement />
+<Relais_Num />
+<Relais_Pays />
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle />
+<Date />
+<Heure />
+<Emplacement />
+<Relais_Num />
+<Relais_Pays />
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle />
+<Date />
+<Heure />
+<Emplacement />
+<Relais_Num />
+<Relais_Pays />
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle />
+<Date />
+<Heure />
+<Emplacement />
+<Relais_Num />
+<Relais_Pays />
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle />
+<Date />
+<Heure />
+<Emplacement />
+<Relais_Num />
+<Relais_Pays />
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle />
+<Date />
+<Heure />
+<Emplacement />
+<Relais_Num />
+<Relais_Pays />
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle />
+<Date />
+<Heure />
+<Emplacement />
+<Relais_Num />
+<Relais_Pays />
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle />
+<Date />
+<Heure />
+<Emplacement />
+<Relais_Num />
+<Relais_Pays />
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle />
+<Date />
+<Heure />
+<Emplacement />
+<Relais_Num />
+<Relais_Pays />
+</ret_WSI2_sub_TracingColisDetaille>
+<ret_WSI2_sub_TracingColisDetaille>
+<Libelle />
+<Date />
+<Heure />
+<Emplacement />
+<Relais_Num />
+<Relais_Pays />
+</ret_WSI2_sub_TracingColisDetaille>
+</Tracing>
+</WSI2_TracingColisDetailleResult>
+</WSI2_TracingColisDetailleResponse>
+</soap:Body>
+</soap:Envelope>

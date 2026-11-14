@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Reconstructed: the shape of an error answer, with STAT 36 (incorrect postal code). -->
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<soap:Body>
+<WSI2_CreationEtiquetteResponse xmlns="http://www.mondialrelay.fr/webservice/">
+<WSI2_CreationEtiquetteResult>
+<STAT>36</STAT>
+</WSI2_CreationEtiquetteResult>
+</WSI2_CreationEtiquetteResponse>
+</soap:Body>
+</soap:Envelope>

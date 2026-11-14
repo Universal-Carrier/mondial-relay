@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<soap:Body>
+<WSI4_PointRelais_RechercheResponse xmlns="http://www.mondialrelay.fr/webservice/">
+<WSI4_PointRelais_RechercheResult>
+<STAT>0</STAT>
+<PointsRelais>
+<PointRelais_Details>
+<STAT />
+<Num>035528</Num>
+<LgAdr1>LOCKER 24/7 INDIGO PONT MARIE</LgAdr1>
+<LgAdr2 />
+<LgAdr3>48 RUE DE L''HOTEL DE VILLE</LgAdr3>
+<LgAdr4 />
+<CP>75004</CP>
+<Ville>PARIS</Ville>
+<Pays>FR</Pays>
+<Localisation1> </Localisation1>
+<Latitude>48,8543157</Latitude>
+<Longitude>2,3560894</Longitude>
+<TypeActivite />
+<Information>LOCKER</Information>
+<Horaires_Lundi>
+<string>0001</string>
+<string>2359</string>
+<string />
+<string />
+</Horaires_Lundi>
+<Horaires_Mardi>
+<string>0001</string>
+<string>2359</string>
+<string />
+<string />
+</Horaires_Mardi>
+<Horaires_Mercredi>
+<string>0001</string>
+<string>2359</string>
+<string />
+<string />
+</Horaires_Mercredi>
+<Horaires_Jeudi>
+<string>0001</string>
+<string>2359</string>
+<string />
+<string />
+</Horaires_Jeudi>
+<Horaires_Vendredi>
+<string>0001</string>
+<string>2359</string>
+<string />
+<string />
+</Horaires_Vendredi>
+<Horaires_Samedi>
+<string>0001</string>
+<string>2359</string>
+<string />
+<string />
+</Horaires_Samedi>
+<Horaires_Dimanche>
+<string>0001</string>
+<string>2359</string>
+<string />
+<string />
+</Horaires_Dimanche>
+<Informations_Dispo />
+<URL_Photo>https://ww2.mondialrelay.com/public/permanent/photo_relais.aspx?ens=BDTEST__11&amp;num=035528&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Photo>
+<URL_Plan>https://ww2.mondialrelay.com/public/permanent/plan_relais.aspx?ens=BDTEST__11&amp;num=035528&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Plan>
+<Distance>0</Distance>
+</PointRelais_Details>
+<PointRelais_Details>
+<STAT />
+<Num>016484</Num>
+<LgAdr1>LAND OR</LgAdr1>
+<LgAdr2 />
+<LgAdr3>5 RUE CHAPON</LgAdr3>
+<LgAdr4 />
+<CP>75003</CP>
+<Ville>PARIS</Ville>
+<Pays>FR</Pays>
+<Localisation1> </Localisation1>
+<Latitude>48,862879</Latitude>
+<Longitude>2,356772</Longitude>
+<TypeActivite />
+<Information />
+<Horaires_Lundi>
+<string>0930</string>
+<string>1300</string>
+<string>1530</string>
+<string>1900</string>
+</Horaires_Lundi>
+<Horaires_Mardi>
+<string>0930</string>
+<string>1300</string>
+<string>1530</string>
+<string>1900</string>
+</Horaires_Mardi>
+<Horaires_Mercredi>
+<string>0930</string>
+<string>1300</string>
+<string>1530</string>
+<string>1900</string>
+</Horaires_Mercredi>
+<Horaires_Jeudi>
+<string>0930</string>
+<string>1300</string>
+<string>1530</string>
+<string>1900</string>
+</Horaires_Jeudi>
+<Horaires_Vendredi>
+<string>0930</string>
+<string>1300</string>
+<string>1530</string>
+<string>1900</string>
+</Horaires_Vendredi>
+<Horaires_Samedi>
+<string>1530</string>
+<string>1900</string>
+<string />
+<string />
+</Horaires_Samedi>
+<Horaires_Dimanche>
+<string />
+<string />
+<string />
+<string />
+</Horaires_Dimanche>
+<Informations_Dispo />
+<URL_Photo>https://ww2.mondialrelay.com/public/permanent/photo_relais.aspx?ens=BDTEST__11&amp;num=016484&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Photo>
+<URL_Plan>https://ww2.mondialrelay.com/public/permanent/plan_relais.aspx?ens=BDTEST__11&amp;num=016484&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Plan>
+<Distance>1000</Distance>
+</PointRelais_Details>
+<PointRelais_Details>
+<STAT />
+<Num>032908</Num>
+<LgAdr1>CARDINAL MULTISERVICES</LgAdr1>
+<LgAdr2 />
+<LgAdr3>36 RUE DU CARDINAL LEMOINE</LgAdr3>
+<LgAdr4 />
+<CP>75005</CP>
+<Ville>PARIS</Ville>
+<Pays>FR</Pays>
+<Localisation1> </Localisation1>
+<Latitude>48,847235</Latitude>
+<Longitude>2,352233</Longitude>
+<TypeActivite />
+<Information />
+<Horaires_Lundi>
+<string>1100</string>
+<string>1330</string>
+<string>1430</string>
+<string>1930</string>
+</Horaires_Lundi>
+<Horaires_Mardi>
+<string>1100</string>
+<string>1330</string>
+<string>1430</string>
+<string>1930</string>
+</Horaires_Mardi>
+<Horaires_Mercredi>
+<string>1100</string>
+<string>1330</string>
+<string>1430</string>
+<string>1930</string>
+</Horaires_Mercredi>
+<Horaires_Jeudi>
+<string>1100</string>
+<string>1330</string>
+<string>1430</string>
+<string>1930</string>
+</Horaires_Jeudi>
+<Horaires_Vendredi>
+<string>1100</string>
+<string>1330</string>
+<string>1530</string>
+<string>1930</string>
+</Horaires_Vendredi>
+<Horaires_Samedi>
+<string>1100</string>
+<string>1330</string>
+<string>1430</string>
+<string>1930</string>
+</Horaires_Samedi>
+<Horaires_Dimanche>
+<string>1100</string>
+<string>1330</string>
+<string>1430</string>
+<string>1930</string>
+</Horaires_Dimanche>
+<Informations_Dispo />
+<URL_Photo>https://ww2.mondialrelay.com/public/permanent/photo_relais.aspx?ens=BDTEST__11&amp;num=032908&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Photo>
+<URL_Plan>https://ww2.mondialrelay.com/public/permanent/plan_relais.aspx?ens=BDTEST__11&amp;num=032908&amp;pays=FR&amp;crc=00000000000000000000000000000000</URL_Plan>
+<Distance>1000</Distance>
+</PointRelais_Details>
+</PointsRelais>
+</WSI4_PointRelais_RechercheResult>
+</WSI4_PointRelais_RechercheResponse>
+</soap:Body>
+</soap:Envelope>
