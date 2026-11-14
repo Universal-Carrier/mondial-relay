@@ -31,36 +31,14 @@
     "ext-soap": "*",
     "psr/http-client": "^1.0",
     "psr/http-factory": "^1.1",
-    "universal-carrier/core": "^1.0"
+    "universal-carrier/core": "^0.1"
   },
   "require-dev": {
     "nyholm/psr7": "^1.8",
     "phpstan/phpstan": "^2.1",
     "phpunit/phpunit": "^11.0",
-    "universal-carrier/conformance": "^1.0"
+    "universal-carrier/conformance": "^0.1"
   },
-  "repositories": [
-    {
-      "type": "path",
-      "url": "..",
-      "options": {
-        "symlink": true,
-        "versions": {
-          "universal-carrier/core": "1.0.0"
-        }
-      }
-    },
-    {
-      "type": "path",
-      "url": "../conformance",
-      "options": {
-        "symlink": true,
-        "versions": {
-          "universal-carrier/conformance": "1.0.0"
-        }
-      }
-    }
-  ],
   "scripts": {
     "test": "phpunit",
     "analyse": "phpstan analyse --memory-limit=512M",
