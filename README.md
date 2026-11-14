@@ -1,6 +1,6 @@
 # Universal Carrier — Mondial Relay
 
-A [Universal Carrier](../README.md) driver for **Mondial Relay**, over its SOAP Web Services.
+A [Universal Carrier](https://github.com/Universal-Carrier/core) driver for **Mondial Relay**, over its SOAP Web Services.
 
 ```bash
 composer require universal-carrier/mondial-relay
